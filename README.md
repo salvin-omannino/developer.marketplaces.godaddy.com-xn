@@ -1,0 +1,1 @@
+developer.marketplaces.godaddy.com
